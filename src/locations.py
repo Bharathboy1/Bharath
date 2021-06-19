@@ -14,7 +14,7 @@ def make_readable(locations_list):
         if area not in areas:
             areas[area] = []
         areas[area].append(location_name)
-    text = "<b><u>🏠 Locations</u></b>\n\n"
+    text = "<b><u>🗾 Locations</u></b>\n\n"
     if areas:
         for area in areas:
             text += "- " + area
