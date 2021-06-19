@@ -15,13 +15,13 @@ def data_markup(pkmn, expanded):
         )
     ], [
         InlineKeyboardButton(
-            text="⚔️ Moveset",
+            text="⚜️ Moveset",
             callback_data="moveset/1/" + pkmn
             # 1 => page number, 10 moves each page (see set_moveset())
         )
     ], [
         InlineKeyboardButton(
-            text="🏠 Locations",
+            text="🗺 Locations",
             callback_data="locations/" + pkmn
         )
     ]])
