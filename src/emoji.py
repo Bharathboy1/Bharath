@@ -1,40 +1,40 @@
 def typing_emoji(typing):
     if typing == "Grass":
-        return "🌱"
+        return "🍃"
     elif typing == "Fire":
         return "🔥"
     elif typing == "Water":
         return "💧"
     elif typing == "Flying":
-        return "🦅"
+        return "🌪"
     elif typing == "Bug":
         return "🐞"
     elif typing == "Normal":
-        return "🐾"
+        return "✴"
     elif typing == "Dragon":
-        return "🐲"
+        return "🐉"
     elif typing == "Ice":
         return "❄️"
     elif typing == "Ghost":
-        return "👻"
+        return "👁‍🗨"
     elif typing == "Fighting":
-        return "💪"
+        return "🥊"
     elif typing == "Fairy":
-        return "🌸"
+        return "🧚‍♂️"
     elif typing == "Steel":
-        return "⚙️"
+        return "🛡"
     elif typing == "Dark":
-        return "🌙"
+        return "⚫️"
     elif typing == "Psychic":
         return "🔮"
     elif typing == "Electric":
         return "⚡️"
     elif typing == "Ground":
-        return "🌍"
+        return "⛰"
     elif typing == "Rock":
-        return "🗻"
+        return "🧱"
     elif typing == "Poison":
-        return "☠️"
+        return "☣"
 
 
 def stats_rating_emoji(stats):
