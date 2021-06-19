@@ -42,7 +42,7 @@ def main(app, inline_query):
             InlineQueryResultArticle(
                 title=name,
                 description=f"{genus}\nType: {typing}",
-                input_message_content=InputTextMessageContent(f"🔄 Loading..."),
+                input_message_content=InputTextMessageContent(f"⌛ Loading..."),
                 thumb_url=thumb_url,
                 reply_markup=markup
             )
