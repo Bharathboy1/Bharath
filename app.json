@@ -1,0 +1,7 @@
+{
+  "name": "Rotomgram",
+  "description": "Pokedex Bot for Telegram",
+  "repository": "https://github.com/Bharathboy1/hexadex",
+  "logo": "https://telegra.ph/file/306e47c4d920f7a2a393c.jpg",
+  "keywords": ["node", "express", "static"]
+}
