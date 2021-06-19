@@ -2,7 +2,7 @@
   <br>
   <img src="assets/logo-circle.png" alt="Rotogram" width="200"></a>
 	<br>
-		Rotogram
+		HeXaDeX
 	</br>
 </h1>
 
